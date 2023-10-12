@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.dicoding.mywebview"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.dicoding.mywebview"
